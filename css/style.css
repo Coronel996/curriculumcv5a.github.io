@@ -16,3 +16,7 @@
     border-radius: 50%;
 }
 
+/* este efecto hace que vaya mas lento rl scroll automatico al hacer click en alguno de mis botones */
+html{
+    scroll-behavior: smooth;
+}
